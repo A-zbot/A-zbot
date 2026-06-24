@@ -37,9 +37,13 @@ panda@learning-arc:~$ █
 
 ### ▸ stats
 
-| | |
-|:---:|:---:|:---:|
-| `BCA` equipped | `PhD` final quest | `☕ ∞` caffeine lvl |
+<div align="center">
+
+![Degree](https://img.shields.io/badge/DEGREE-BCA_Equipped-7F77DD?style=for-the-badge&labelColor=26215C)
+![Final Quest](https://img.shields.io/badge/FINAL_QUEST-PhD-5DCAA5?style=for-the-badge&labelColor=04342C)
+![Caffeine](https://img.shields.io/badge/CAFFEINE_LVL-∞-FAC775?style=for-the-badge&labelColor=3A1C0A)
+
+</div>
 
 ---
 
